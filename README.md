@@ -9,9 +9,8 @@ OpenWeatherMap was used for showing basic weather information of the selected sh
    
 
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.1.JPG?raw=true" width="900" height="600">
-
 The main page.
-<br/>
+
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.2.JPG?raw=true" width="400" height="600"> 
 
 As there are hundreds of ships sailing at the same time, Shiptracker has a possibility to filter ships by ship type.
