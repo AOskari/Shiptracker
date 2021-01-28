@@ -19,5 +19,8 @@ As there are hundreds of ships sailing at the same time, Shiptracker has a possi
 <br/>
 <br/>
 <br/>
+
+
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.3.JPG?raw=true" width="700" height="500"> 
+<br/>
 Ships can be searched by ship names. The ships can be clicked, displaying specific details including the weather information, destination, ship type and coordinates.
