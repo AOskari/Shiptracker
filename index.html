@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shiptracker</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+            crossorigin=""></script>
+    <link rel="stylesheet" href="new.css">
+</head>
+<body>
+    <header id="upperSection">
+        <section id="upperPart">
+            <h2 class="displayNone">Upper part</h2>
+            <img id="logo" src="images/logo.png" alt="Shiptracker logo">
+            <div id="searchSection">
+                <input type="text" name="search" id="searchBar" placeholder="Search by..">
+                <button id="search"><img id="searchIcon" src="images/magnifyingglass.png" alt="a magnyfying glass"></button>
+            </div>
+            <div id="searchType">
+                <span>
+                    <input type="radio" id="shipName" name="searchType" value="shipName" checked="checked">
+                    <label for="shipName">Ship Name</label>
+                </span>
+                <span>
+                    <input type="radio" id="mmsi" name="searchType" value="mmsi">
+                    <label for="mmsi">MMSI</label>
+                </span>
+            </div>
+        </section>
+        <section id="lowerPart">
+            <h2 class="displayNone">Lower part</h2>
+            <button class="button" onclick="clearMap()" id="clearMap">Clear</button>
+            <button class="button" id="showAll" onclick="showAll()">Show all</button>
+            <button class="button" id="resetLocation" onclick="resetLocationData()">Reload locations</button>
+            <button class="button" id="hideMap" onclick="hideMain()">Hide map</button>
+            <button class="button disabled" id="darkMode" onclick="changeMode()">Dark mode</button>
+        </section>
+    </header>
+    <main id="midSection">
+        <img src="images/ship.jpg" alt="A Ship" id="image">
+        <img src="images/darkbackground.jpg" alt="A Ship" id="darkImage">
+        <section id="filters">
+            <button id="displayFilters" onclick="displayColors()"><img src="images/arrow.png" id="arrow" alt="an Arrow">
+                <span id="filterTxt">Filters</span>
+            </button>
+                <div id="colors" class="hidden">
+                    <button id="color1" class="color" onclick="showOther('blue')">Fishing</button>
+                    <button id="color2" class="color" onclick="showOther('yellow')">Towing</button>
+                    <button id="color3" class="color" onclick="showOther('green')">Military</button>
+                    <button id="color4" class="color" onclick="showOther('white')">Sailing</button>
+                    <button id="color5" class="color" onclick="showOther('crimson')">High speed craft</button>
+                    <button id="color6" class="color" onclick="showOther('orange')">Pilot vessel</button>
+                    <button id="color7" class="color" onclick="showOther('darkkhaki')">Search & rescue</button>
+                    <button id="color8" class="color" onclick="showOther('greenyellow')">Tug</button>
+                    <button id="color9" class="color" onclick="showOther('magenta')">Port tender</button>
+                    <button id="color10" class="color" onclick="showOther('darkslategray')">Anti-pollution</button>
+                    <button id="color11" class="color" onclick="showOther('darkblue')">Law enforcement</button>
+                    <button id="color12" class="color" onclick="showOther('red')">Passenger</button>
+                    <button id="color13" class="color" onclick="showOther('brown')">Cargo</button>
+                    <button id="color14" class="color" onclick="showOther('black')">Tanker</button>
+                    <button id="color15" class="color" onclick="showOther('gray')">Other</button>
+                </div>
+        </section>
+        <div id="mapid">
+        </div>
+    </main>
+    <aside id="intro">
+        <img src=images/startlogo.png id="startlogo" alt="A shiptracker logo">
+        <div id="introText">Welcome to Shiptracker. Let us begin.
+            <button id="continue"  onclick="intro()">Continue</button>
+        </div>
+    </aside>
+    <script src='scripts/config.js'></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>

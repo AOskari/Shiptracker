@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:map-project-2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4bd2059-5b04-481e-ab29-a2c44a6c4c8f" name="Default Changelist" comment="Fixed radio button text colors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hrQSKcmhv8tl8HdOiT5XMFADph" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AJAX" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Thard\OneDrive - Metropolia Ammattikorkeakoulu Oy\Web-tekniikat\map-project-2\scripts" />
+      <recent name="C:\Users\Thard\OneDrive - Metropolia Ammattikorkeakoulu Oy\Web-tekniikat\map-project-2\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4bd2059-5b04-481e-ab29-a2c44a6c4c8f" name="Default Changelist" comment="" />
+      <created>1600766729528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600766729528</updated>
+      <workItem from="1600766730582" duration="2746000" />
+      <workItem from="1600775937438" duration="5514000" />
+      <workItem from="1600782325573" duration="6603000" />
+      <workItem from="1600789515760" duration="578000" />
+      <workItem from="1600790179818" duration="215000" />
+      <workItem from="1600842230893" duration="9000" />
+      <workItem from="1600846061500" duration="174000" />
+      <workItem from="1600848314429" duration="2339000" />
+      <workItem from="1600931972560" duration="708000" />
+      <workItem from="1601017177406" duration="1433000" />
+      <workItem from="1601040661113" duration="57000" />
+      <workItem from="1601117594393" duration="2545000" />
+      <workItem from="1601191563607" duration="3703000" />
+      <workItem from="1601223714752" duration="17000" />
+      <workItem from="1601285489449" duration="350000" />
+      <workItem from="1601285856783" duration="62000" />
+      <workItem from="1601286686443" duration="213000" />
+      <workItem from="1601287275429" duration="292000" />
+      <workItem from="1601287632788" duration="146000" />
+      <workItem from="1601288077250" duration="125000" />
+      <workItem from="1601452332569" duration="1911000" />
+      <workItem from="1601459852565" duration="896000" />
+      <workItem from="1601549039436" duration="597000" />
+      <workItem from="1601573777100" duration="86000" />
+      <workItem from="1601634112809" duration="3842000" />
+      <workItem from="1601639338782" duration="1232000" />
+      <workItem from="1601641370247" duration="1608000" />
+      <workItem from="1601648251428" duration="180000" />
+      <workItem from="1601660003635" duration="597000" />
+      <workItem from="1601802315412" duration="61000" />
+      <workItem from="1601803464242" duration="1818000" />
+      <workItem from="1601844928689" duration="6000" />
+      <workItem from="1601884750945" duration="7756000" />
+      <workItem from="1601929413909" duration="1000" />
+      <workItem from="1601991432608" duration="1576000" />
+      <workItem from="1601997923406" duration="25000" />
+      <workItem from="1601998143267" duration="142000" />
+      <workItem from="1601998532297" duration="697000" />
+      <workItem from="1602060484803" duration="662000" />
+      <workItem from="1602062005157" duration="7138000" />
+    </task>
+    <task id="LOCAL−00001" summary="Added coordinates on the ship popup">
+      <created>1600767328715</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1600767328715</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Reorganized image files to their own folder">
+      <created>1600768152025</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1600768152025</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Fixed error with image not showing">
+      <created>1600768732277</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1600768732277</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Fixed error with image not showing">
+      <created>1600768901973</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1600768901973</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Changed XMLHttpRequest to Fetch, completely redesigned the code, removed a lot of repeat code">
+      <created>1600780931286</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1600780931286</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Fixed CSS image location">
+      <created>1600781064293</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1600781064293</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Fixed commenting">
+      <created>1600781428200</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1600781428200</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Added OneWeatherMap API to show general weather information at the ship locations. Also added a popup to show up when searching for ships.">
+      <created>1600788258716</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1600788258716</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Hid API keys">
+      <created>1600789777308</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1600789777308</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Fixed bug with API key">
+      <created>1600790331120</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1600790331120</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Fixed bug with API key">
+      <created>1600790367578</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1600790367578</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Added button to reload ship locations from the API + code formatting and comments.">
+      <created>1600939178326</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1600939178326</updated>
+    </task>
+    <task id="LOCAL−00013" summary="Fixed issue with locationInformation array not emptying when reloading data into it">
+      <created>1600939499985</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1600939499985</updated>
+    </task>
+    <task id="LOCAL−00014" summary="Fixed issue with locationInformation array not emptying when reloading data into it">
+      <created>1600940101649</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1600940101649</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Fixed resetLocationData">
+      <created>1600941315698</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1600941315698</updated>
+    </task>
+    <task id="LOCAL−00016" summary="Fixed ships not loading when loading page for the first time">
+      <created>1600948492561</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1600948492561</updated>
+    </task>
+    <task id="LOCAL−00017" summary="Added background color to the interactable color code section">
+      <created>1600950110660</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1600950110661</updated>
+    </task>
+    <task id="LOCAL−00018" summary="Changed leaflet popups into paragraphs and added styling, added use of OpenWeatherMap icons into the weather popups">
+      <created>1601119409967</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1601119409967</updated>
+    </task>
+    <task id="LOCAL−00019" summary="Changed leaflet popups into paragraphs and added styling, added use of OpenWeatherMap icons into the weather popups">
+      <created>1601120078489</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1601120078489</updated>
+    </task>
+    <task id="LOCAL−00020" summary="Added duplicate code in the search function into its own function, addSearchMarker">
+      <created>1601192711413</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1601192711413</updated>
+    </task>
+    <task id="LOCAL−00021" summary="Fixed 'other' shiptypes not showing.">
+      <created>1601285681997</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1601285681997</updated>
+    </task>
+    <task id="LOCAL−00022" summary="Fixed searched ships not clearing from map when filtering">
+      <created>1601460539433</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1601460539433</updated>
+    </task>
+    <task id="LOCAL−00023" summary="Added window resize event listener to fix position of filter buttons when resizing">
+      <created>1601635971673</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1601635971673</updated>
+    </task>
+    <task id="LOCAL−00024" summary="Restructured code">
+      <created>1601636062170</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1601636062170</updated>
+    </task>
+    <task id="LOCAL−00025" summary="Added boolean filtersPushed to determine whether or not color code filter box should be visible or not when resizing window.">
+      <created>1601636485746</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1601636485746</updated>
+    </task>
+    <task id="LOCAL−00026" summary="Fixed position of color code buttons, fixed hide map not working on first click.">
+      <created>1601637187683</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1601637187683</updated>
+    </task>
+    <task id="LOCAL−00027" summary="Edited reload locations button to clear map and then store location data">
+      <created>1601892235080</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1601892235080</updated>
+    </task>
+    <task id="LOCAL−00028" summary="Fixed old comments">
+      <created>1601898428380</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1601898428380</updated>
+    </task>
+    <task id="LOCAL−00029" summary="Fixed dark mode brightness">
+      <created>1601899659904</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1601899659904</updated>
+    </task>
+    <task id="LOCAL−00030" summary="Renamed placeholder name to index.html">
+      <created>1601991491093</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1601991491093</updated>
+    </task>
+    <task id="LOCAL−00031" summary="Cleaned up dark mode code a bit, fixed dark mode logo">
+      <created>1601992339641</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1601992339641</updated>
+    </task>
+    <task id="LOCAL−00032" summary="Added alt attribute for weather icons">
+      <created>1601992588092</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1601992588092</updated>
+    </task>
+    <task id="LOCAL−00033" summary="Cleaned dark mode a bit more">
+      <created>1601992989639</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1601992989639</updated>
+    </task>
+    <task id="LOCAL−00034" summary="Fixed radio button text colors">
+      <created>1601998272621</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1601998272621</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed commenting" />
+    <MESSAGE value="Added OneWeatherMap API to show general weather information at the ship locations. Also added a popup to show up when searching for ships." />
+    <MESSAGE value="Hid API keys" />
+    <MESSAGE value="Fixed bug with API key" />
+    <MESSAGE value="Added button to reload ship locations from the API + code formatting and comments." />
+    <MESSAGE value="Fixed issue with locationInformation array not emptying when reloading data into it" />
+    <MESSAGE value="Fixed resetLocationData" />
+    <MESSAGE value="Fixed ships not loading when loading page for the first time" />
+    <MESSAGE value="Added background color to the interactable color code section" />
+    <MESSAGE value="Changed leaflet popups into paragraphs and added styling, added use of OpenWeatherMap icons into the weather popups" />
+    <MESSAGE value="Added duplicate code in the search function into its own function, addSearchMarker" />
+    <MESSAGE value="Fixed 'other' shiptypes not showing." />
+    <MESSAGE value="Fixed searched ships not clearing from map when filtering" />
+    <MESSAGE value="Added window resize event listener to fix position of filter buttons when resizing" />
+    <MESSAGE value="Restructured code" />
+    <MESSAGE value="Added boolean filtersPushed to determine whether or not color code filter box should be visible or not when resizing window." />
+    <MESSAGE value="Fixed position of color code buttons, fixed hide map not working on first click." />
+    <MESSAGE value="Edited reload locations button to clear map and then store location data" />
+    <MESSAGE value="Fixed old comments" />
+    <MESSAGE value="Fixed dark mode brightness" />
+    <MESSAGE value="Renamed placeholder name to index.html" />
+    <MESSAGE value="Cleaned up dark mode code a bit, fixed dark mode logo" />
+    <MESSAGE value="Added alt attribute for weather icons" />
+    <MESSAGE value="Cleaned dark mode a bit more" />
+    <MESSAGE value="Fixed radio button text colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed radio button text colors" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="728" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600776013333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600776013333" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1601223729432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600767147037" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601223729432" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1601286730765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601286730765" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1601286730770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601286730770" />
+    <state x="369" y="115" key="SettingsEditor" timestamp="1601454354157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601454354157" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600932253572" />
+    <state x="560" y="434" key="VCS.EditChangelistDialog" timestamp="1601637150404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="434" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601637150404" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1601998277120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601460553334" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601998277120" />
+    <state x="2371" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600950113437" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1600939459124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600939459124" />
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600766780793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600766780793" />
+    <state x="616" y="419" key="git4idea.ui.GitStashDialog" timestamp="1600780969985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="419" key="git4idea.ui.GitStashDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600780969985" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1600932256809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600932256809" />
+  </component>
+</project>

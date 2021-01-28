@@ -1,0 +1,452 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Century Gothic";
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+html{
+    display: table;
+    margin: auto;
+    background-image: linear-gradient(to top, silver, #DCDCDC, white);
+}
+
+body{
+    display: flex;
+    flex-flow: column wrap;
+    max-width: 2000px;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    box-shadow: black 1px 1px 10px;
+}
+
+.visible{ visibility: visible; }
+.hidden{ visibility: hidden; }
+.display{ display: block; }
+.displayNone{ display: none; }
+
+/* ===================================================================================*/
+/* ============================== Header portion begins ==============================*/
+/* ===================================================================================*/
+
+#upperSection{
+    display: flex;
+    flex-flow: column wrap;
+    background: white;
+    position: absolute;
+    margin-bottom: 10px;
+    top: 0px;
+    height: 15vh;
+    min-height: 140px;
+    width: 100%;
+    max-width: 2000px;
+    z-index: 10;
+    font-size: 1.5vh;
+    transition-property: background-color;
+    transition-duration: 1.5s;
+    box-shadow: black 2px 2px 60px;
+}
+
+/* ==== upper portion of the uppersection ==== */
+#upperPart{
+    width: 90%;
+    height: 100px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin-right: 4vw;
+    padding: 0px;
+}
+
+#logo{
+    width: 20%;
+}
+
+#searchSection{
+    margin-top: 15px;
+    padding: 0px;
+    display: flex;
+    flex-flow: row wrap;
+    color: white;
+    width: 50%;
+    height: 35%;
+}
+
+#search{
+    height: 100%;
+    width: 5%;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    margin: 0px;
+    background: #E8E8E8;
+    display: flex;
+    flex-flow: column wrap;
+}
+#searchIcon{
+    transition: 0.5s ease;
+    width: 70%;
+    max-width: 20px;
+    opacity: 0.5;
+}
+
+#search:hover #searchIcon{ opacity: 1; }
+
+#searchBar{
+    text-align: start;
+    outline-style: none;
+    width: 80%;
+    height: 100%;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    border-style: none;
+    background: #E8E8E8;
+    padding: 0 20px;
+}
+
+input[type=radio]{
+    margin-right: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+#searchType{
+    margin-top: 1vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items: start;
+    transition-property: color;
+    transition-duration: 1.5s;
+}
+
+/* ==== upper portion of the uppersection ==== */
+
+
+/* ==== lower portion of the uppersection ==== */
+#lowerPart{
+    display: flex;
+    flex-flow: row wrap;
+    bottom: 0%;
+    background-color: transparent;
+    margin: 0px;
+    height: 4vh;
+    color: black;
+}
+
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    outline-style: none;
+    border-style: none;
+    background: transparent;
+    font-size: 2vh;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: 0.2s ease;
+    width: 10vw;
+}
+/* ==== lower portion of the uppersection ==== */
+
+/* =================================================================================*/
+/* ============================== Header portion ends ==============================*/
+/* =================================================================================*/
+
+
+
+/* =================================================================================*/
+/* ============================== Main portion begins ==============================*/
+/* =================================================================================*/
+
+#midSection{
+    margin-top: 13vh;
+    display: flex;
+    flex-flow: column wrap;
+    width: 80%;
+    height: 85%;
+    transition-property: opacity;
+    transition-duration: 1.5s;
+    z-index: 9;
+}
+
+#image{
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 1.5s;
+    position: absolute;
+    bottom: 0px;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    max-width: 2000px;
+}
+
+#darkImage{
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 1.5s;
+    position: absolute;
+    bottom: 0px;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    max-width: 2000px;
+}
+/* map settings */
+#mapid {
+    height: 70vh;
+    width: 60vw;
+    max-width: 1500px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    padding: 10px;
+    transition-property: opacity;
+    transition-duration: 1.5s;
+    margin-right: 8vw;
+    display: block;
+}
+/* map settings */
+
+
+/* ==== filter section ==== */
+#filters{
+    display: flex;
+    flex-flow: column wrap;
+    height: 80%;
+    width: 10vw;
+    position: relative;
+    left: 9.5vw;
+    transition-property: left;
+    transition-duration: 0.8s;
+
+}
+
+
+/* Filter button section */
+#displayFilters{
+    display: flex;
+    flex-flow: column nowrap;
+    background-image: linear-gradient(to left, #DCDCDC, #F5F5F5);
+    border: black solid 2px;
+    transform: rotate(-90deg);
+    width: 3vw;
+    margin: 0px;
+    border-radius: 8px 8px 0 0;
+    border-bottom-style: none;
+    position: relative;
+    left: 1vh;
+    transition-property: opacity;
+    transition-duration: 0.2s;
+    height: 3vw;
+    z-index: 1;
+}
+#arrow{
+    opacity: 0;
+    width: 50%;
+    max-width: 45px;
+    position: fixed;
+    top:1%;
+    transition: 0.7s;
+}
+#displayFilters:hover #arrow{ opacity: 1;}
+#displayFilters:hover #filterTxt{ opacity: 0; }
+#displayFilters:active{ background-image: linear-gradient(to right, #696969, #909090); }
+
+#filterTxt{
+    opacity: 1;
+    position: fixed;
+    top: 10px;
+    font-size: 1vw;
+}
+/* Filter button section */
+
+
+#colors{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    height: 68vh;
+    width: 10vw;
+    transition-property: visibility;
+    transition-duration: 0.6s;
+    background-image: linear-gradient(to bottom, #C8C8C8, #DCDCDC, #F5F5F5);
+    border-radius: 10px;
+    padding: 8px 0 8px 10px;
+    z-index: 2;
+}
+
+.color{
+    width: 100%;
+    border-radius: 8px 0 0 8px;
+    color: white;
+    font-size: 65%;
+    height: 4%;
+    box-shadow: black 5px 5px 5px;
+    transition: 0.05s ease;
+    border: black solid 2px;
+    text-align: left;
+    padding: 0 5px;
+}
+.color:active{
+    font-size: 1.4vh;
+    box-shadow: black 2px 2px 2px;
+    width: 96%;
+}
+.color:hover{ filter:brightness(80%); }
+
+#color1{ background: blue; }
+#color2{ background: yellow; color: black; }
+#color3{ background: green; }
+#color4{ background: white; color: black; }
+#color5{ background: crimson; }
+#color6{ background: orange; color: white; }
+#color7{ background: darkkhaki; }
+#color8{ background: greenyellow;color: black; }
+#color9{ background: magenta; color: white; }
+#color10{ background: darkslategray; color: white; }
+#color11{ background: darkblue; color: white; }
+#color12{ background: red; }
+#color13{ background: brown; }
+#color14{ background: black; color: white; }
+#color15{ background: slategrey; }
+/* ==== filter section ==== */
+
+.popupTextBox { text-align: center; }
+.popupTextBox img {background-color: #bababa; }
+
+/* ===============================================================================*/
+/* ============================== Main portion ends ==============================*/
+/* ===============================================================================*/
+
+
+
+
+/* ================================================================================================*/
+/* ============================== Introduction screen portion begins ==============================*/
+/* ================================================================================================*/
+
+#intro{
+    display: flex;
+    flex-flow: column wrap;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100vh;
+    width: 100vw;
+    z-index: 15;
+    transition-property: top;
+    transition-duration: 2s;
+    background-image: linear-gradient(to top, #F0F0F0, #909090);
+    box-shadow: #888888 2px 2px 60px;
+}
+
+#introText{
+    display: flex;
+    flex-flow: column wrap;
+    color: black;
+    font-size: 1vw;
+    height: 10vh;
+    width: 40vw;
+    border-radius: 5px;
+}
+
+#continue{
+    color: black;
+    width: 15%;
+    height: 30%;
+    border-radius: 5px;
+    color: white;
+    animation: blink 1000ms infinite;
+}
+
+@keyframes blink{
+    /* Intro button blinking animation */
+    0% { background-color: #E8E8E8; }
+    10%{ background-color: #D8D8D8; }
+    20%{ background-color: #C8C8C8; }
+    30%{ background-color: #B0B0B0; }
+    40%{ background-color: #A0A0A0; }
+    50%{ background-color: #888888; }
+    60%{ background-color: #A0A0A0; }
+    70%{ background-color: #B0B0B0; }
+    80%{ background-color: #C8C8C8; }
+    90%{ background-color: #D8D8D8; }
+    100%{ background-color: #E8E8E8; }
+}
+
+/* ==============================================================================================*/
+/* ============================== Introduction screen portion ends ==============================*/
+/* ==============================================================================================*/
+
+
+
+
+/* ==========================================================================================================*/
+/* ============================== Media queries to make the website responsive ==============================*/
+/* ==========================================================================================================*/
+
+@media (min-width: 2000px){
+    .button, #darkMode{font-size: 20px; width: 8vw}
+    .color{font-size: 90%}
+}
+
+/* ==== settings for a laptop-sized screen ==== */
+@media (max-width: 1700px) {
+    .button, #darkMode{width: 10vw}
+    #mapid{ margin-top: 5vh; height: 70vh; }
+    #colors{ margin-top: 4vh; }
+    #introText{ font-size: 2vw; }
+    #continue{ font-size: 1vw; }
+    #filters{ width: 16%; }
+    #displayFilters{ left: 13%; width: 5vw;  height: 4.5vw;}
+}
+/* ==== settings for a laptop-sized screen ==== */
+
+
+/* ==== settings for mobile screens ==== */
+@media (max-width: 1050px) {
+    #upperSection{ flex-flow: column wrap; height: 25%; top: 0vh}
+    #midSection{ flex-flow: column wrap; }
+    #logo{width: 30%; position: absolute; top: 1px;}
+    #lowerPart{justify-content: space-between; width: 90%; position: absolute; top: 80%;}
+    #searchType{flex-flow: row wrap; position: absolute; top: 15%; font-size: 4vw}
+    input[type=radio]{width: 5vw; height: 5vw}
+    #upperPart{justify-content: center}
+    #intro{ display: none; }
+    #image{display: none;}
+    #darkImage{display: none;}
+    #displayFilters{ visibility: hidden; }
+    .color{ height: 17%; border-radius: 0px; text-align: center; font-size: 2vh}
+    body{ background-image: url("images/mobilebackground.jpg"); }
+    #searchSection{width: 100%; height: 25%; position: absolute; top: 40%; left: 0%}
+    #searchBar{width: 70%; font-size: 30px}
+    #search{width: 20%; background: gray}
+    #mapid{
+        height: 30vh;
+        width: 75vw;
+        bottom: 20%;
+        left: 4.5%;
+    }
+    #colors{
+        margin-top: 5%;
+        width: 100%;
+        height: 40%;
+        position: absolute;
+        bottom: -6%;
+        flex-flow: column wrap;
+        visibility: visible;
+        background: transparent;
+    }
+    #filters{
+        position: absolute;
+        height: 90%;
+        bottom: 5%;
+        width: 25%;
+        left: 37%;
+    }
+}
+/* ==== settings for mobile screens ==== */
