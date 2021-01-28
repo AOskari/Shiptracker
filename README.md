@@ -12,3 +12,11 @@ OpenWeatherMap was used for showing basic weather information of the selected sh
 
 The main page.
 
+<img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.2.JPG?raw=true" width="400" height="600"> 
+
+As there are hundreds of ships sailing at the same time, Shiptracker has a possibility to filter ships by ship type.
+
+
+<img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.3.JPG?raw=true" width="700" height="500"> 
+
+Ships can be searched by ship names. Ships found by the given value are displayed if the amount of found ships is 20 or less.
