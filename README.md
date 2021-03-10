@@ -13,12 +13,9 @@ The main page.
 <br/>
 
 # Filter
+As there are hundreds of ships sailing at the same time, Shiptracker has a possibility to filter ships by ship type.
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.2.JPG?raw=true" width="400" height="600"> 
 
-As there are hundreds of ships sailing at the same time, Shiptracker has a possibility to filter ships by ship type.
-<br/>
-<br/>
-<br/>
 
 # Search
 Ships can be searched by names or MMSI. The ships can be clicked, displaying specific details including the weather information, destination, ship type and coordinates.
