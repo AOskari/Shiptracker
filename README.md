@@ -6,13 +6,13 @@ We chose to use the Leaflet library along with the open JSON API by Digitraffic 
 OpenWeatherMap was used for showing basic weather information of the selected ship's area.
 
   
-   
-
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.1.JPG?raw=true" width="900" height="600">
 The main page.
 <br/>
 <br/>
 <br/>
+
+# Filter
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.2.JPG?raw=true" width="400" height="600"> 
 
 As there are hundreds of ships sailing at the same time, Shiptracker has a possibility to filter ships by ship type.
@@ -20,7 +20,9 @@ As there are hundreds of ships sailing at the same time, Shiptracker has a possi
 <br/>
 <br/>
 
+# Search
+Ships can be searched by names or MMSI. The ships can be clicked, displaying specific details including the weather information, destination, ship type and coordinates.
 
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.3.JPG?raw=true" width="700" height="500"> 
-<br/>
-Ships can be searched by names or MMSI. The ships can be clicked, displaying specific details including the weather information, destination, ship type and coordinates.
+
+
