@@ -25,5 +25,6 @@ Ships can be searched by names or MMSI. The ships can be clicked, displaying spe
 
 <img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker1.3.JPG?raw=true" width="700" height="500"> 
 
-# Every website needs a dark mode, am I right?
+# Dark mode
+Every website needs a dark mode.
 <img src="https://github.com/AOskari/Images/blob/main/shiptracker-pictures/shiptracker_1.4.JPG" width="1000" height="500"> 
