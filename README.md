@@ -24,4 +24,4 @@ Ships can be searched by names or MMSI. The ships can be clicked, displaying spe
 
 # Dark mode
 Every website needs a dark mode.
-<img src="https://github.com/AOskari/Images/blob/main/shiptracker-pictures/shiptracker_1.4.JPG" width="1000" height="500"> 
+<img src="https://github.com/AOskari/Shiptracker/blob/master/images/shiptracker_1.4.jpg" width="1000" height="500"> 
